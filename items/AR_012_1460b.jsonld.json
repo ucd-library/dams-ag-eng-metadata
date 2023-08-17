@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/922872"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1460b.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-02",
+  "schema:description": "Posts cost 30 cents each, labor of dipping (cold bath for approximately 10 minutes) .006 cents each; material .02 cents each, (creoste at 38 cents per gal.) prices furnished by Greer.",
+  "schema:identifier": [
+    "ark:/87293/d3d795f78",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".75 Fences",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Creosoting Redwood Fence Posts, University Farm Ranch",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

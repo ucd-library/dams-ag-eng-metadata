@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/882362"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1698a.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-10-24",
+  "schema:description": "This house was built by Agricultural Engineering Staff and used in \"Model\" Dairy exhibit at 1923 state fair. House was redesigned in some features following this experience.",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3s756p9p"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".734 Milk houses and creameries",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Milk House, Ira Smith Ranch, Riverbank. Sacramento Woodland Highway.",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabels": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/800731"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800702"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800726"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:description": "The Department of Biological and Agricultural Engineering Records contain subject files, correspondence, files related to the American Society of Agricultural Engineers, and farm building plans. The collection also contains an index of images and associated negatives that were photographed by the department from circa 1915-1951. Subjects of the images include research by the department, various types of agricultural equipment such as: plows, harrows and rollers, cultivators, subsoilers, and harvesting and haying machinery, as well as agricultural buildings such as: barns, silos, corn cribs, poultry houses. \n\n This subset of the collection focuses on photographs and includes metadata from the index cards. Digitization of these photographs is on-going, however, so this collection will grow as that work is completed. For a complete record of the physical collection, see the full finding aid: <https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/>",
+  "schema:identifier": [
+    "AR-012", 
+    "ark:/13030/c8154mgs"
+  ],
+  "schema:image": {
+    "@id": "@base:/thumbnail.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Department of Biological and Agricultural Engineering Photographs",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2022"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

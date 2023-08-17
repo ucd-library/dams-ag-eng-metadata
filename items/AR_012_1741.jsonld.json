@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/952131"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1741.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-11-06",
+  "schema:description": "Overall dimensions 96' x 108' - 32' purlin-width divided into 32' hay storage  and 4-16' sheds for four strings of cows. The 6\" x 6\" x 32' posts down thru the center of the 6\" x 8\" posts on the ends of the barn were secured direct from Oregon at $28.00  delivered to Knights Landing.",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3hx15v5g"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".731 Hay barns and storage",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Hay Barn and Feed Sheds, Morris Bros. Ranch, Knights Landing",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

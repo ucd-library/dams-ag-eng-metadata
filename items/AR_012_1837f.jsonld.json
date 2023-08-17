@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/840723"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1837f.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1925-06",
+  "schema:description": "Built for residences of Mexican officials. ([a](/collection/ag_eng/AR-012/AR_012_1837a)) Bare adobe brick structure, evidently unfinished. Note brick quoins at front door and window openings and brick coping. ([b](/collection/ag_eng/AR-012/AR_012_1837b)) Adobe block residence. Note concrete lintel over door opening. ([c](/collection/ag_eng/AR-012/AR_012_1837e_2) & [d](/collection/ag_eng/AR-012/AR_012_1837d)) Two views of the same house, adobe block construction. Note sleeping porch built over garage at rear ([e](/collection/ag_eng/AR-012/AR_012_1837e)) Adobe block house under construction. Rough textured stucco, central patio with $1800 imported fountain. American laundry tubs, bath and kitchen fixtures. Hardwood floors throughout. Estimated cost $23,000. ([f](/collection/ag_eng/AR-012/AR_012_1837f)) Monolithic concrete residence. Connecting stairway between house and sleeping porch over garage behind connecting arch.",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3pr7mz59"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".1 Materials, manufacture, tests, strength, preservation, etc.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Mexican Structures, Mexicali, Mexico (f)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

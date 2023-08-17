@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/886802"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_0995a.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-10-23",
+  "schema:description": "([a](/collection/ag_eng/AR-012/AR_012_0995a)) Interior of one of three milking barns La Lomita Jersey Farm, Ferdinand R. Bain, owner, Palms, showing Hunt, Helm and Farris Co., individual stanchions. ([b](/collection/ag_eng/AR-012/AR_012_0995b)) Milking barn at Eastmont Jersey Farm, El Monte. Note concrete side wall which has been heightened by 1\" x 12\" plank and opening above.",
+  "schema:identifier": [
+    "ark:/87293/d3f766b80",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".723 Dairy cattle barns",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Milking Barns, Jersey Jubilee Farm (a)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

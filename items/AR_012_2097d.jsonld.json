@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/840723"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_2097d.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1926-06",
+  "schema:description": "18th and K Street, Sacramento; C.R. Butler, P.O. Box 440, Sacramento, and H.H. Mell, 1613 K St. Sacramento, builders ([1](/collection/ag_eng/AR-012/AR_012_2097a)) Showing reinforced concrete lintel running almost across front of structure; ([2](/collection/ag_eng/AR-012/AR_012_2097b)) Same view with walls roof and poured concrete porch completed. ([3](/collection/ag_eng/AR-012/AR_012_2097c)) Structure ready for low semi-circular patio walls in front and stucco ([4](/collection/ag_eng/AR-012/AR_012_2097d)) Tar and gravel roof showing sheet metal ventilator at crown of roof.",
+  "schema:identifier": [
+    "ark:/87293/d3qb9v944",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".1 Materials, manufacture, tests, strength, preservation, etc.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Adobe Brick Construction, 18th and K Street, Sacramento (4)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

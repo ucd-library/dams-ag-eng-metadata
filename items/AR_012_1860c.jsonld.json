@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/899978"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1860c.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1925-06",
+  "schema:description": "([a](/collection/ag_eng/AR-012/AR_012_1860a), [b](/collection/ag_eng/AR-012/AR_012_1860b)) Bunk houses showing use made of double roofs, wide screened porches and trellised vegetation for coolness. Note hot water tank on roof. ([c](/collection/ag_eng/AR-012/AR_012_1860c)) The \"cool room\" for sleeping. Has double roof, electric fan and ventilators, sheet iron siding covered with burlap which is continually wetted with a water spray.",
+  "schema:identifier": [
+    "ark:/87293/d3jw86r93",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".71 & .711 Dwelling houses",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Farm Dwellings, M.H. Whittier Date Gardens, Indio, Cal. (c)",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

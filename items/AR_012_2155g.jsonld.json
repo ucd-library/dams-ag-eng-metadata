@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/879408"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/946302"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_2155g.tif"
+  },
+  "schema:creator": "Stirniman, E.J.",
+  "schema:datePublished": "1926-07",
+  "schema:description": "([a](/collection/ag_eng/AR-012/AR_012_2155a) and [b](/collection/ag_eng/AR-012/AR_012_2155b)) Sacking grain at ranch headquarters hauled in bulk from combine. ([c](/collection/ag_eng/AR-012/AR_012_2155c),[d](/collection/ag_eng/AR-012/AR_012_2155d),[e](/collection/ag_eng/AR-012/AR_012_2155e)) Loading grain with John Deere elevator into truck from ground storage piles. ([f](/collection/ag_eng/AR-012/AR_012_2155f) and [g](/collection/ag_eng/AR-012/AR_012_2155g)) Loading bulk grain in cars thru a beet chute.",
+  "schema:identifier": [
+    "ark:/87293/d30g3h30z",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".732 Corn cribs, granaries and seed rooms",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Elevator and Farm Storage, Thaxton Ranch, Grimes, California (g)",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

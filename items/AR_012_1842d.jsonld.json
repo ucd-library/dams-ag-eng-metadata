@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/840723"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1842d.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1925-05-08",
+  "schema:description": "Poured adobe (mud concrete) construction [More images: [a](/collection/ag_eng/AR-012/AR_012_1842a), [b](/collection/ag_eng/AR-012/AR_012_1842b), [c](/collection/ag_eng/AR-012/AR_012_1842c), [d](/collection/ag_eng/AR-012/AR_012_1842d), [e](/collection/ag_eng/AR-012/AR_012_1842e).]; See trip report no. 16 for details of construction, also [other card showing building being erected](/collection/ag_eng/AR-012/AR_012_2078a).",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3sj19w0v"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".1 Materials, manufacture, tests, strength, preservation, etc.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Ranch House, Liberty Ranch - Oroville (d)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

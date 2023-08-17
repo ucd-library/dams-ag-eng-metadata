@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/922872"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1748.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-12",
+  "schema:description": "8\" x 8\" redwood post set in concrete. Posts removed from corralls at horse barn when new fences were erected. Out of about a dozen posts examined, three only showed evidences of having rot under the concrete. This could have been prevented probably by pouring a tar filling in the crack about the post after the concrete set and also by making certain that the top of the concrete was well above the ground, to prevent water standing on it. The old fence was removed after 12 years service because of the tops of posts and rails being eaten up by the horses. The new fence was protected by strands of barbed wire along the rails and strap iron on the posts.",
+  "schema:identifier": [
+    "ark:/87293/d34m91f5z",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".75 Fences",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Fence Post, University Farm, Davis",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

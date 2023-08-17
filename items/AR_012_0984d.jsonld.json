@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/886802"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_0984d.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-10-17",
+  "schema:description": "Erected 1924 -at P.S. and R.L. Morehead dairy - Sutter City. ([a](/collection/ag_eng/AR-012/AR_012_0984a/)) W. side of milking house and milkhouse showing drive between and side wall of milking barn closed tight. Top of silo and feed barn show over ridge. Roof of milking barn of galvanized iron; shingles over milk house. ([b](/collection/ag_eng/AR-012/AR_012_0984b/)) E. silo of milking barn showing 2 side panels opened. ([c](/collection/ag_eng/AR-012/AR_012_0984c)) All concrete work for barn and milkhouse was poured with small outfit shown in foreground. ([d]()/collection/ag_eng/AR-012/AR_012_0984d/)) W. side of barn looking toward milkhouse shows pipe posts above concrete side wall to plate. Milking machine in small room just beyond far wall.",
+  "schema:identifier": [
+    "ark:/87293/d36q1sn0z",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".723 Dairy cattle barns",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Standard Milking Barn (C-28) and 20' x 32' Milkhouse, At foot of Marysville Butte 5 mi west Sutter City (d)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

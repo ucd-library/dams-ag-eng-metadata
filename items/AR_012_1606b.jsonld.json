@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/922872"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1606b.tif"
+  },
+  "schema:creator": "Stirniman, E.J.",
+  "schema:datePublished": "1924-06-09",
+  "schema:description": "Posts broken by shock. Two views of 2nd post in view (1606 - [a](/collection/ag_eng/AR-012/AR_012_1606a)) showing clean break at one of fastening clips [[b](/collection/ag_eng/AR-012/AR_012_1606b) and  [c](/collection/ag_eng/AR-012/AR_012_1606c)]. Post broken by shock to fencing not struck directly by machine. See - 1606-[a](/collection/ag_eng/AR-012/AR_012_1606a).",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3mk65c9h"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".75 Fences",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Steel Fence Posts, G.N. Merritt ranch 3 miles north of Davis (b)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

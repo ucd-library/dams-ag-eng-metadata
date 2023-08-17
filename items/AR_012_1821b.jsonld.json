@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/840723"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1821b.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1925-06-12",
+  "schema:description": "Different forms of adobe building; ([a](/collection/ag_eng/AR-012/AR_012_1821a) & [b](/collection/ag_eng/AR-012/AR_012_1821b)) Front and rear views of residence of Mr. B.F. Patterson, Lockwood. House erected by \"poured\" method in 1900; stood the 1906 S.F. Earthquake ([c](/collection/ag_eng/AR-012/AR_012_1821c) & [d](/collection/ag_eng/AR-012/AR_012_1821d)) \"Aloha\", ([e](/collection/ag_eng/AR-012/AR_012_1821e)) Rear view of the adobe brick residence on Pinkerton Ranch, Puenta, which \"was an old house 42 years ago,\" White washed walls, rock foundation, new roof built over old. ([f](/collection/ag_eng/AR-012/AR_012_1821f)) Outbuilding on Pinkerton Ranch showing rock foundation and raised roof (g) Outbuilding on B.F. Patterson Ranch erected in 1884 by poured method. No foundation or protective coating. For further details see Trip Report 17, June, 12 1925.",
+  "schema:identifier": [
+    "ark:/87293/d3wm13z2v",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".1 Materials, manufacture, tests, strength, preservation, etc.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Farm Residence, San Antonio Valley, California (b)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

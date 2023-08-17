@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/840723"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1843b.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1926-06",
+  "schema:description": "([a](/collection/ag_eng/AR-012/AR_012_1843a)) A two-unit house - one side for living rooms, the other for bedrooms, exterior plaster of dirt with linseed and flushing oil coating. ([b](/collection/ag_eng/AR-012/AR_012_1843b),c,d,[e](/collection/ag_eng/AR-012/AR_012_1843e)) A similar residence under construction.  Note window and door casings and lintels, mud mortar joints except for lime mortar over openings, tile down spouts and electric conduit set into exterior wall and block fireplace. Adobe work done by Mexican laborers. Cretol, of Shafter, was doing the plastering and stuccoing after his patented process and advised putting downspout and conduit chases on interior wall to avoid expansion cracks.",
+  "schema:identifier": [
+    "ark:/87293/d3db7vv19",
+    "AR-012"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".1 Materials, manufacture, tests, strength, preservation, etc.",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Rural House of Adobe Bricks, U.S. Govt. Plant Acclimatization Station, Torrey Pines, California (b)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/882362"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_0987a.tif"
+  },
+  "schema:creator": "Long, J.D.",
+  "schema:datePublished": "1924-10-17",
+  "schema:description": "Floor Plan #1 standard 20' x 32' milkhouse. ([a](/collection/ag_eng/AR-012/AR_012_0987a/)) Exterior wall of milkhouse on driveway shows doors at far end to the two cold rooms, wide door in center heading to straining platform and door at extreme right to wash room. ([b](/collection/ag_eng/AR-012/AR_012_0987b/)) View from wash room from door opening on driveway. Shows steps to straining platform, refrigeration machinery and brine box and door opening into concrete sterilizer. ([c](/collection/ag_eng/AR-012/AR_012_0987c/)) View from wash room door into milk room. Shows tubular cooler with connections to brine pump and motor hanging from ceiling and door opening into milk cold room. ([d](/collection/ag_eng/AR-012/AR_012_0987d/)) View in milk room showing door opening from sterilizer, tubular cooler and at extreme right milk cold room door. The lined opening thru the wall from straining platform shows just behind far hanger above cooler.",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d32z12t6k"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".734 Milk houses and creameries",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Milk House Interior, P.S. and R.L. Morehead ranch, Sutter City (a)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

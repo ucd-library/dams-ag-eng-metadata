@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/998827"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1066410"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/AR_012_1976c.tif"
+  },
+  "schema:creator": "Stirniman, E.J.",
+  "schema:datePublished": "1925-09",
+  "schema:description": "Earth structure attached to newer frame portion. Oldest structure in that locality. Used as fruit and vegetable storehouse. Has not proven unqualifiedly successful due to lack of attention being given to ventilating system, windows in end and side walls. ([a](/collection/ag_eng/AR-012/AR_012_1976a)) Note roof louver, ceiling joists acting as cross tie and lower chord for rafter truss, slight roof overhand, plaster washed off wall from base upward, deep layers of earth indicating poured construction, and weathering at base due to lack of foundation. ([b](/collection/ag_eng/AR-012/AR_012_1976b)) Note open ventilating windows, crack under end window and unprotected corners. [More images: [c](/collection/ag_eng/AR-012/AR_012_1976c), [d](/collection/ag_eng/AR-012/AR_012_1976d)]",
+  "schema:identifier": [
+    "AR-012",
+    "ark:/87293/d3x05xh32"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
+  },
+  "schema:keywords": ".15 Lime and plasters",
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Adobe Ranch House, Poured of Loam Soil, Farmstead - 1.5 miles North of Dunningan, east side R.R. track, opposite warehouse (c)",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

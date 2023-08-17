@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1004830",
+    "http://schema.org/name": "Machine shops"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1020714",
+    "http://schema.org/name": "Migrant labor--Dwellings"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1021753",
+    "http://schema.org/name": "Milking parlors"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1024657",
+    "http://schema.org/name": "Molasses as feed"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1066410",
+    "http://schema.org/name": "Plaster"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1067240",
+    "http://schema.org/name": "Plows"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1073961",
+    "http://schema.org/name": "Poultry--Housing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1083985",
+    "http://schema.org/name": "Pumping machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1084018",
+    "http://schema.org/name": "Pumping stations"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1100394",
+    "http://schema.org/name": "Root crops--Storage"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1113497",
+    "http://schema.org/name": "Service stations"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1118809",
+    "http://schema.org/name": "Silos"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1124377",
+    "http://schema.org/name": "Soil erosion"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1129791",
+    "http://schema.org/name": "Spillways"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1131246",
+    "http://schema.org/name": "Stables"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1140470",
+    "http://schema.org/name": "Swine--Housing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1150956",
+    "http://schema.org/name": "Tillage--Equipment and supplies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1171247",
+    "http://schema.org/name": "Water--Measurement"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1171704",
+    "http://schema.org/name": "Water diversion"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1198486",
+    "http://schema.org/name": "Dams"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800702",
+    "http://schema.org/name": "Agricultural education"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800726",
+    "http://schema.org/name": "Agricultural engineering"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801054",
+    "http://schema.org/name": "Agricultural machinery"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801108",
+    "http://schema.org/name": "Agricultural machinery--Storage"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801114",
+    "http://schema.org/name": "Agricultural machinery--Traction"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/802187",
+    "http://schema.org/name": "Air--Purification--Equipment and supplies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/829665",
+    "http://schema.org/name": "Beef cattle--Housing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/840723",
+    "http://schema.org/name": "Building materials"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/874126",
+    "http://schema.org/name": "Concrete"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/879408",
+    "http://schema.org/name": "Corncribs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/882362",
+    "http://schema.org/name": "Creameries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/884975",
+    "http://schema.org/name": "Cultivators"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/886802",
+    "http://schema.org/name": "Dairy barns"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/898154",
+    "http://schema.org/name": "Drills (Planting machinery)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/899978",
+    "http://schema.org/name": "Dwellings"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/920970",
+    "http://schema.org/name": "Farm buildings"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/922872",
+    "http://schema.org/name": "Fences"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/927443",
+    "http://schema.org/name": "Flood control"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/933615",
+    "http://schema.org/name": "Framing (Building)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/935572",
+    "http://schema.org/name": "Fruit--Drying--Equipment and supplies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/935610",
+    "http://schema.org/name": "Fruit--Packing"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/935642",
+    "http://schema.org/name": "Fruit--Storage"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/946302",
+    "http://schema.org/name": "Granaries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/951741",
+    "http://schema.org/name": "Harrows"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/952131",
+    "http://schema.org/name": "Hay--Storage"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/979567",
+    "http://schema.org/name": "Irrigation canals and flumes"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/979682",
+    "http://schema.org/name": "Irrigation water--Measurement"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/989804",
+    "http://schema.org/name": "Labor--Dwellings"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/998827",
+    "http://schema.org/name": "Lime"
+  }
+]
