@@ -36,9 +36,6 @@
     "AR-012", 
     "ark:/13030/c8154mgs"
   ],
-  "schema:image": {
-    "@id": "@base:/thumbnail.jpg"
-  },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
   },
