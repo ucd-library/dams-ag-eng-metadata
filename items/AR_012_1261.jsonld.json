@@ -28,9 +28,6 @@
     "ark:/87293/d35x25h4s",
     "AR-012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".312 Irrigation: Conveyance of water (Canals, canal linings, see page losses, tunnels, flumes, pipes and inverted syphons)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

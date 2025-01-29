@@ -28,9 +28,6 @@
     "ark:/87293/d39c6s502",
     "AR-012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".41 Farm machinery (complete line)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

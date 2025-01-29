@@ -30,9 +30,6 @@
   "schema:image": {
     "@id": "@base:/AR_012_474a-rgb.jpg"
   },
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".7231 Milking barns",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

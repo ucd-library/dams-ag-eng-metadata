@@ -29,9 +29,6 @@
   "schema:image": {
     "@id": "@base:/AR_012_578-rgb.jpg"
   },
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".41113 Cultivators",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
