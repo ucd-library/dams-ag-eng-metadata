@@ -25,9 +25,6 @@
     "ark:/87293/d3dr2pd1n",
     "AR-012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".314 Irrigation by pumping",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

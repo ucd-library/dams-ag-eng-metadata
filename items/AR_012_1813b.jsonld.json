@@ -28,9 +28,6 @@
     "AR-012",
     "ark:/87293/d3fn10x0h"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".41241 Pumps",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

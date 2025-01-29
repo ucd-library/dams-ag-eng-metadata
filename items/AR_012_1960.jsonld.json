@@ -28,9 +28,6 @@
     "AR-012",
     "ark:/87293/d3930p00j"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".41112 Harrow and rollers",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

@@ -28,9 +28,6 @@
     "AR-012",
     "ark:/87293/d3cj87q4n"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".705 Framing",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

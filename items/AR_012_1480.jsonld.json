@@ -26,9 +26,6 @@
     "ark:/87293/d3db7vv0t",
     "AR-012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".4111 Tillage machinery",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

@@ -33,9 +33,6 @@
     "ark:/87293/d3qn5zg46",
     "AR-012"
   ],
-  "schema:isPartOf": {
-    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8154mgs/"
-  },
   "schema:keywords": ".313 Irrigation: Irrigation structures (dams, diversion works, spillways, check gates, measuring devices)",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
