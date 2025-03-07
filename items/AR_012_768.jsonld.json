@@ -26,7 +26,7 @@
     "ark:/87293/d3t43j66m"
   ],
   "schema:image": {
-    "@id": "@base:/AR_012_768-rgb.jpg"
+    "@id": "@base:/AR_012_768.tif"
   },
   "schema:keywords": ".733 Silos",
   "schema:license": {

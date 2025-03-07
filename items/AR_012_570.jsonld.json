@@ -26,7 +26,7 @@
     "AR-012"
   ],
   "schema:image": {
-    "@id": "@base:/AR_012_570-rgb.jpg"
+    "@id": "@base:/AR_012_570.tif"
   },
   "schema:keywords": ".72 & .7201 Buildings for housing farm animals",
   "schema:license": {

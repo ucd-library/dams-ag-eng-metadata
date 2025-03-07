@@ -29,7 +29,7 @@
     "AR-012"
   ],
   "schema:image": {
-    "@id": "@base:/AR_012_560b-rgb.jpg"
+    "@id": "@base:/AR_012_560b.tif"
   },
   "schema:keywords": ".41112 Harrow and rollers",
   "schema:license": {

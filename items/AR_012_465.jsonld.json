@@ -29,7 +29,7 @@
     "AR-012"
   ],
   "schema:image": {
-    "@id": "@base:/AR_012_465-rgb.jpg"
+    "@id": "@base:/AR_012_465.tif"
   },
   "schema:keywords": ".41111 Plows",
   "schema:license": {

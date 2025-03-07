@@ -28,7 +28,7 @@
     "AR-012"
   ],
   "schema:image": {
-    "@id": "@base:/AR_012_475a-rgb.jpg"
+    "@id": "@base:/AR_012_475a.tif"
   },
   "schema:keywords": ".7231 Milking barns",
   "schema:license": {
